@@ -1,0 +1,1 @@
+# kingsoft-wps-dictionary-configuration
